@@ -1,5 +1,5 @@
 # Post Graduate certificate Program in Applied Data Science and AI, E&ICT IIT Roorkee - February batch
-All the exercises given in the class regarding the PG Certification course in Data Science and Artificial Intelligence is stored here. Do have a look into my coding space!
+**All the exercises given in the class regarding the PG Certification course in Data Science and Artificial Intelligence is stored here. Do have a look into my coding space!**
 ## Contents:
 **Code_01.ipynb:** Number system; Logarithm problems.
 
@@ -19,7 +19,7 @@ All the exercises given in the class regarding the PG Certification course in Da
 
 **Code_09.ipynb:** Given three arrays, return list of their XORs; Reverse a list of numbers without inbuilt functions (slicing); Shifting array by k places using reverse.
 
-**Code_10.ipynb:** Print all n digit numbers in base m or write a function to print all possible numbers of length n where each digit could go from 0 to m-1; Print all possible permutations of your name; Predict load on your website in real time; Interger multiplication using recursion; Power integer function using recursion, Design division, Print fibonacci numbers.
+**Code_10.ipynb:** Print all n digit numbers in base m or write a function to print all possible numbers of length n where each digit could go from 0 to m-1; Print all possible permutations of your name; Predict load on your website in real time; Integer multiplication using recursion; Power integer function using recursion, Design division, Print fibonacci numbers.
 
 **Code_11.ipynb:** Recursion based solution to HCF using Euclid's method; Method to find all prime factors of a number which should be in non-decreasing order; Given two lists of numbers in non-decreasing order, find the common numbers; You have a list of numbers which are sorted, find the distinct numbers in-place without using any extra memory.
 
