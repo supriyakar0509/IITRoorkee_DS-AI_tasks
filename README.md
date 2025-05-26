@@ -73,8 +73,10 @@ Welcome to my coding space! This repository contains all the exercises and assig
 ### **11. Code_11.ipynb**
 - **Topics:** 
   - Recursion-based solution for HCF using Euclid's method.
-  - Find all prime factors of a number in non-decreasing order.
-  - Merge two lists of numbers in non-decreasing order.
+  - Common Factors and Common numbers.
+  - Parenthesis or bracket combination valid or not.
+  - Combination of unique handshakes.
+  - Solving Linear Equations.
 
 ---
 
