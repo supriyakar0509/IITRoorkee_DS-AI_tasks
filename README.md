@@ -8,7 +8,9 @@ Welcome to my coding space! This repository contains all the exercises and assig
 ## 📂 Contents:
 
 ### **1. Code_01.ipynb**
-- **Topics:** Number system, Logarithm problems.
+- **Topics:**
+  - Number system
+  - Logarithm problems.
 
 ### **2. Code_02.ipynb**
 - **Topics:** 
