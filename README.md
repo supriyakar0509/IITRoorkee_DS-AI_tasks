@@ -61,10 +61,13 @@ Welcome to my coding space! This repository contains all the exercises and assig
 
 ### **10. Code_10.ipynb**
 - **Topics:** 
-  - Generate all n-digit numbers in base m.
   - Write a function to print all possible numbers of length n, where each digit ranges from 0 to m-1.
   - Generate all possible permutations of a name.
-
+  - Predicting load on a website.
+  - Recursion problems: Designing integer multipication, designing own power integer function, designing division.
+  - Fibonacci numbers.
+  - Designing decimal division.
+    
 ### **11. Code_11.ipynb**
 - **Topics:** 
   - Recursion-based solution for HCF using Euclid's method.
