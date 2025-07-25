@@ -23,18 +23,28 @@ Welcome to my coding space! This repository contains all the exercises and assig
     - Determine if lines are overlapping or touching.
     - Verify if rectangles are touching or overlapping.
 
+---
+
+
 ### **3. Code_03.ipynb**
 - **Topics:** Calculating the square root of a number.
+
+---
+
 
 ### **4. Code_04.ipynb**
 - **Topics:** 
   - Calculating the cube and cube root of a number.
   - Introduction to Strings and Lists.
 
+---
+
 ### **5. Code_05.ipynb**
 - **Topics:** 
   - Pythagoras theorem: Calculate hypotenuse from base and height.
   - Distance between points in 2-D, 3-D, and n-D spaces.
+
+---
 
 ### **6. Code_06.ipynb**
 - **Topics:** 
@@ -42,6 +52,9 @@ Welcome to my coding space! This repository contains all the exercises and assig
     - Represent a number as a list of digits.
     - Create a function to add 1 to your number.
     - Print all 4-digit numbers in Base 15.
+  
+---
+
 
 ### **7. Code_07.ipynb**
 - **Topics:** 
@@ -51,17 +64,22 @@ Welcome to my coding space! This repository contains all the exercises and assig
     - From Base 10 to any other base.
     - From Base N to Base M.
 
+  ---
+
 ### **8. Code_08.ipynb**
 - **Topics:** 
   - Swapping two variables.
   - Understanding Binary numbers and XOR operations.
   - Shifting arrays by k places (without extra array, but with a variable).
 
+---
+
 ### **9. Code_09.ipynb**
 - **Topics:** 
   - Given three arrays, compute list of their XORs.
   - Reverse a list of numbers without using inbuilt functions.
   - Shift arrays by k places using reversal techniques.
+---
 
 ### **10. Code_10.ipynb**
 - **Topics:** 
@@ -71,7 +89,8 @@ Welcome to my coding space! This repository contains all the exercises and assig
   - Recursion problems: Designing integer multipication, designing own power integer function, designing division.
   - Fibonacci numbers.
   - Designing decimal division.
-    
+ ---
+ 
 ### **11. Code_11.ipynb**
 - **Topics:** 
   - Recursion-based solution for HCF using Euclid's method.
