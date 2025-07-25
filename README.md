@@ -12,6 +12,8 @@ Welcome to my coding space! This repository contains all the exercises and assig
   - Number system
   - Logarithm problems.
 
+---
+
 ### **2. Code_02.ipynb**
 - **Topics:** 
   - Base conversion.
